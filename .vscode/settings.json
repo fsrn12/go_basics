@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": -0.25,
+  "files.eol": "\n",
+  "editor.fontSize": 18,
+  "notebook.insertFinalNewline": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "workbench.colorCustomizations": {
+    "editor.background": "#111213",
+    "sideBar.foreground": "#22f33a",
+    "sideBar.background": "#0c0c0c",
+    "terminal.background": "#090909",
+    "statusBar.background": "#2f2f2f"
+  }
+}
